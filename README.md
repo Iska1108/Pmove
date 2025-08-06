@@ -16,6 +16,8 @@ Faciliter la gestion des demandes d’accompagnement en temps réel, depuis la d
 | 💻 ClientWeb    | Interface web React pour les clients utilisateurs         | [ClientWeb](https://github.com/PMRSAE5/Client) |
 | ⚙️ API          | Backend central (Node / Express / Mongo)                  | [API](https://github.com/PMRSAE5/API) |
 | 📄 PageQRCode   | Génération de QR codes pour accéder aux demandes          | [PageQRCode](https://github.com/PMRSAE5/PageQRCode) |
+| 📄 Documentation   | Documentation de l'application et fonctionnalités          | [Doc](https://github.com/PMRSAE5/Doc) |
+
 
 ---
 
