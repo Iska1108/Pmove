@@ -12,10 +12,10 @@ Faciliter la gestion des demandes d’accompagnement en temps réel, depuis la d
 
 | Composant       | Description                                               | Lien GitHub |
 |-----------------|-----------------------------------------------------------|-------------|
-| 📱 ClientMobile | Application mobile React Native pour les agents | [ClientMobile](https://github.com/Iska1108/ClientMobile) |
-| 💻 ClientWeb    | Interface web React pour les clients utilisateurs         | [ClientWeb](https://github.com/Iska1108/ClientWeb) |
-| ⚙️ API          | Backend central (Node / Express / Mongo)                  | [API](https://github.com/Iska1108/API) |
-| 📄 PageQRCode   | Génération de QR codes pour accéder aux demandes          | [PageQRCode](https://github.com/Iska1108/PageQRCode) |
+| 📱 ClientMobile | Application mobile React Native pour les agents | [ClientMobile](https://github.com/PMRSAE5/ClientMobile) |
+| 💻 ClientWeb    | Interface web React pour les clients utilisateurs         | [ClientWeb](https://github.com/PMRSAE5/Client) |
+| ⚙️ API          | Backend central (Node / Express / Mongo)                  | [API](https://github.com/PMRSAE5/API) |
+| 📄 PageQRCode   | Génération de QR codes pour accéder aux demandes          | [PageQRCode](https://github.com/PMRSAE5/PageQRCode) |
 
 ---
 
